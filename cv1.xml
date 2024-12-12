@@ -1,0 +1,223 @@
+<CV>
+    <Osoba>
+        <Imię>Paulina</Imię>
+        <Nazwisko>Przybyła</Nazwisko>
+        <Kontakt>
+            <Email>paulina.przybyla02@gmail.com</Email>
+            <Telefon>+48 882 890 646</Telefon>
+            <Adres>Wrocław</Adres>
+        </Kontakt>
+        <Zdjęcie>cv.jpg</Zdjęcie>
+    </Osoba>
+    <Sekcje>
+        <O_mnie>
+            <Opis>Jestem absolwentką matematyki stosowanej na Wydziale Matematyki Politechniki Wrocławskiej. Specjalizuję się w modelowaniu matematycznym,
+             analizie danych oraz rozwiązywaniu problemów związanych z optymalizacją procesów. Jestem doświadczoną specjalistką ds. analizy danych 
+             i rozwiązań technologicznych, z pasją do wdrażania innowacyjnych narzędzi i optymalizacji procesów biznesowych. Posiadam ponad 15-letnie
+              doświadczenie zawodowe w branży IT, analizie danych i edukacji, co pozwala mi efektywnie łączyć umiejętności analityczne, techniczne i 
+              komunikacyjne. Dodatkowo pracowałam nad projektami technologicznymi i opracowywałam rozwiązania oparte na algorytmach uczenia maszynowego.
+               Cechuje mnie zaangażowanie, sumienność oraz pasja do ciągłego rozwoju.</Opis>
+        </O_mnie>
+        <Wykształcenie>
+            <Pozycja>
+                <Szkoła>Politechnika Wrocławska</Szkoła>
+                <Okres>2021-2022</Okres>
+                <Stopień>Applied Mathematics-magister</Stopień>
+            <KategoriaPracy>Data Science</KategoriaPracy></Pozycja>
+            <Pozycja>
+                <Szkoła>Szkoła Główna Handlowa w Warszawie</Szkoła>
+                <Okres>2022–2024</Okres>
+                <Stopień>Zarządzanie Ryzykiem Finansowym-studia podyplomowe</Stopień>
+            <KategoriaPracy>Analityk finansowy</KategoriaPracy></Pozycja>
+            <Pozycja>
+                <Szkoła>Politechnika Wrocławska</Szkoła>
+                <Okres>2018–2021</Okres>
+                <Stopień>Matematyka stosowana-inżynier</Stopień>
+            <KategoriaPracy>Data Science</KategoriaPracy><KategoriaPracy>Analityk finansowy</KategoriaPracy></Pozycja>
+        </Wykształcenie>
+        <Doświadczenie>
+            <Pozycja>
+                <Stanowisko>Starszy Data Scientist</Stanowisko>
+                <Firma>ABC Tech</Firma>
+                <Lokalizacja>Wrocław</Lokalizacja>
+                <Okres>2027.01–obecnie</Okres>
+                <Obowiązki>
+                    <Obowiązek>Projektowanie i wdrażanie zaawansowanych modeli predykcyjnych i analitycznych.</Obowiązek>
+                    <Obowiązek>Praca z narzędziami big data (Hadoop, Spark) oraz platformami chmurowymi (AWS, Azure, GCP).</Obowiązek>
+                    <Obowiązek>Konsultacje z zespołami biznesowymi, IT oraz produktowymi w celu dostosowania rozwiązań analitycznych do potrzeb organizacji.</Obowiązek>
+                </Obowiązki>
+            <KategoriaPracy>Data Science</KategoriaPracy><KategoriaPracy>Analityk finansowy</KategoriaPracy></Pozycja>
+            <Pozycja>
+                <Stanowisko>Ekspert ds. analizy danych i sztucznej inteligencji</Stanowisko>
+                <Firma>DataAI Solutions</Firma>
+                <Lokalizacja>Warszawa</Lokalizacja>
+                <Okres>2025.05–2027.12</Okres>
+                <Obowiązki>
+                    <Obowiązek>Przetwarzanie dużych zbiorów danych za pomocą technologii Big Data.</Obowiązek>
+                    <Obowiązek>Śledzenie najnowszych osiągnięć w dziedzinie AI i analityki danych oraz rekomendowanie ich zastosowania w firmie.</Obowiązek>
+                    <Obowiązek>Wspieranie młodszych analityków i data scientistów poprzez szkolenia oraz mentoring.</Obowiązek>
+                </Obowiązki>
+            <KategoriaPracy>Data Science</KategoriaPracy></Pozycja>
+            <Pozycja>
+                <Stanowisko>Manager ds. Analiz Finansowych</Stanowisko>
+                <Firma>Global Financial Services</Firma>
+                <Lokalizacja>Warszawa</Lokalizacja>
+                <Okres>2024.01–2025.04</Okres>
+                <Obowiązki>
+                    <Obowiązek>Zarządzanie zespołem analityków odpowiedzialnych za kompleksową analizę i ocenę ryzyka finansowego oraz monitorowanie wyników finansowych spółki.</Obowiązek>
+                    <Obowiązek>Wdrożenie nowoczesnych narzędzi analitycznych oraz zautomatyzowanych dashboardów do śledzenia kluczowych wskaźników finansowych i efektywności procesów.</Obowiązek>
+                    <Obowiązek>Opracowywanie i prezentacja strategii optymalizacji finansowej, zwiększającej rentowność i minimalizującej ryzyka związane z wierzytelnościami.</Obowiązek>
+                </Obowiązki>
+            <KategoriaPracy>Analityk finansowy</KategoriaPracy></Pozycja>
+            <Pozycja>
+                <Stanowisko>Starszy Analityk Kredytowy</Stanowisko>
+                <Firma>Bank Polska</Firma>
+                <Okres>2023.06–2023.12</Okres>
+                <Obowiązki>
+                    <Obowiązek>Przeprowadzanie szczegółowych analiz kredytowych i ocena ryzyka finansowego dla dużych portfeli klientów korporacyjnych oraz sektorów o podwyższonym ryzyku.</Obowiązek>
+                    <Obowiązek>Tworzenie zaawansowanych modeli scoringowych wspierających proces podejmowania decyzji kredytowych, dostosowanych do zmieniających się regulacji bankowych.</Obowiązek>
+                </Obowiązki>
+            <KategoriaPracy>Analityk finansowy</KategoriaPracy></Pozycja>
+            <Pozycja>
+                <Stanowisko>Analityk Danych</Stanowisko>
+                <Firma>Instytut Matematyki, Politechnika Wrocławska</Firma>
+                <Okres>2022.09–2023.05</Okres>
+                <Obowiązki>
+                    <Obowiązek>Analizowanie działanie maszyn górniczych, identyfikując kluczowe wskaźniki wydajności i obszary do poprawy.</Obowiązek>
+                    <Obowiązek>Tworzenie i prezentowanie wyników analiz w formie interaktywnych dashboardów, umożliwiających efektywne monitorowanie wydajności maszyn.</Obowiązek>
+                </Obowiązki>
+            <KategoriaPracy>Data Science</KategoriaPracy></Pozycja>
+        </Doświadczenie>
+        <Umiejętności>
+            <Kategoria>
+                <Nazwa>Programowanie</Nazwa>
+                <Opis>Python (NumPy, Pandas, Scikit-learn, PyTorch), SQL, R, MATLAB.</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Analiza danych</Nazwa>
+                <Opis>Wizualizacja (Tableau, Power BI, Matplotlib), modelowanie statystyczne, przetwarzanie i analiza dużych zbiorów danych.</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Uczenie maszynowe</Nazwa>
+                <Opis>Deep learning, NLP, modele predykcyjne.</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Big Data</Nazwa>
+                <Opis>Apache Hadoop, Spark, NoSQL (MongoDB, Cassandra).</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Chmura</Nazwa>
+                <Opis>Microsoft Azure, AWS, Google Cloud.</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Analiza finansowa</Nazwa>
+                <Opis>Modelowanie finansowe, prognozowanie przychodów, analiza wskaźnikowa, wycena przedsiębiorstw.</Opis>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Przetwarzanie danych finansowych</Nazwa>
+                <Opis>Automatyzacja procesów raportowania finansowego, przetwarzanie danych finansowych z wykorzystaniem SQL i Excel.</Opis>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Metodologie pracy</Nazwa>
+                <Opis>Agile, Scrum.</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Kategoria>
+            <Kategoria>
+                <Nazwa>Języki</Nazwa>
+                <Opis>Polski (ojczysty), Angielski (C1), Niemiecki (B2).</Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Kategoria>
+        </Umiejętności>
+        <Projekty>
+            <Projekt>
+                <Nazwa>System predykcji wyników sportowych</Nazwa>
+                <Opis>
+                    <Punkt>Opracowanie modelu AI przewidującego wyniki meczów piłkarskich.</Punkt>
+                    <Punkt>Wykorzystanie algorytmów Random Forest i XGBoost.</Punkt>
+                </Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>Optymalizacja łańcucha dostaw</Nazwa>
+                <Opis>
+                    <Punkt>Projekt zrealizowany dla firmy logistycznej.</Punkt>
+                    <Punkt>Analiza procesów, wdrożenie modeli predykcyjnych w celu redukcji kosztów.</Punkt>
+                </Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>System analizy obrazu medycznego</Nazwa>
+                <Opis>
+                    <Punkt>Wdrożenie modelu deep learning do analizy zdjęć rentgenowskich w celu diagnozy chorób płuc.</Punkt>
+                    <Punkt>Wykorzystanie PyTorch i technik augmentacji danych, osiągnięcie dokładności 92%.</Punkt>
+                </Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>Automatyzacja analizy finansowej</Nazwa>
+                <Opis>
+                    <Punkt>Budowa narzędzia w Pythonie do automatycznego generowania raportów finansowych.</Punkt>
+                    <Punkt>Integracja danych z systemu ERP w oparciu o SQL i API.</Punkt>
+                </Opis>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>System prognozowania zapotrzebowania na energię</Nazwa>
+                <Opis>
+                    <Punkt>Tworzenie modeli predykcyjnych w celu optymalizacji zarządzania energią w sieciach miejskich.</Punkt>
+                    <Punkt>Wykorzystanie technologii Big Data i algorytmów uczenia maszynowego.</Punkt>
+                </Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>Platforma edukacyjna oparta na AI</Nazwa>
+                <Opis>
+                    <Punkt>Opracowanie systemu personalizowanych lekcji dla uczniów na podstawie analizy wyników testów.</Punkt>
+                </Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>Model rekomendacji muzyki</Nazwa>
+                <Opis>
+                    <Punkt>Implementacja algorytmu rekomendacji muzyki na podstawie analizy danych użytkowników serwisu streamingowego.</Punkt>
+                    <Punkt>Wzrost zaangażowania użytkowników o 18%.</Punkt>
+                </Opis>
+                <KategoriaPracy>Data Science</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>Analiza finansowa i prognozowanie</Nazwa>
+                <Opis>
+                    <Punkt>Opracowanie modeli predykcyjnych do prognozowania przychodów i kosztów przedsiębiorstwa.</Punkt>
+                    <Punkt>Analiza wskaźnikowa na podstawie raportów finansowych.</Punkt>
+                </Opis>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Projekt>
+            <Projekt>
+                <Nazwa>System oceny ryzyka kredytowego</Nazwa>
+                <Opis>
+                    <Punkt>Stworzenie algorytmu oceny zdolności kredytowej na podstawie danych finansowych klientów.</Punkt>
+                    <Punkt>Wykorzystanie modeli machine learning w analizie scoringowej.</Punkt>
+                </Opis>
+                <KategoriaPracy>Analityk finansowy</KategoriaPracy>
+            </Projekt>
+        </Projekty>
+
+        <Zainteresowania>
+            <Zainteresowanie>Analiza danych i uczenie maszynowe</Zainteresowanie>
+            <Zainteresowanie>Nowe technologie i ich wpływ na biznes</Zainteresowanie>
+            <Zainteresowanie>Matematyka stosowana w finansach i nauce</Zainteresowanie>
+            <Zainteresowanie>Muzyka</Zainteresowanie>
+        </Zainteresowania>
+
+    </Sekcje>
+</CV>
